@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">layonel_1</string>
+    <string name="nombre">NOMBRE:</string>
+    <string name="correo">CORREO:</string>
+    <string name="contraseña"></string>
+    <string name="contraseña2"></string>
+    <!--<string name=""></string>-->
+</resources>
